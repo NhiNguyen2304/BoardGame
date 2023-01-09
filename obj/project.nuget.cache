@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TPuQu7ado06ASbxTFCTvzDUf5AYQF1uR53L1LDH6Mc9Nr0P42cDl8KiPZ4OIbGpVXxZdSRp5PMftTRqNi2Lzfw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nguye\\OneDrive - Queensland University of Technology\\Semester2_2022\\IFN563_OOD\\Repo\\n11232862_PhanThaoNhiNguyen_IFN561_Ass2\\BoardGame\\BoardGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nguye\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
