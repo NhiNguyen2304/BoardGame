@@ -2,7 +2,10 @@
 # Requirement
 This assignment is designed for reused in board game with two dimensional, with 
 two players. Because this is implemented by individual, I only implement for Tic 
-Tac Toe game. But this project can be easy to extend for other board game. 
+Tac Toe game. But this project can be easy to extend for other board game.\
+
+This prokect aims to appky learning knowledge about Design Pattern for a BoardGame project.\
+###### ⚡️Using design pattern: Abstract Design Pattern, Singleton Design Pattern, Template Design Pattern. (*More information and design diagram in file BoardGame_document.pdf*)
 #### a. Features is implemented
 ###### Tic Tac Toe Game
 _ A reused game for board games with two players (Reversi, Tic Tac Toe…).\
