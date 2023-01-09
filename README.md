@@ -3,7 +3,7 @@
 This assignment is designed for reused in board game with two dimensional, with 
 two players. Because this is implemented by individual, I only implement for Tic 
 Tac Toe game. But this project can be easy to extend for other board game. 
-⚡️ a. Features is implemented\
+⚡️ a. Features is implemented
 Tic Tac Toe Game\
 _ A reused game for board games with two players (Reversi, Tic Tac Toe…).\
 _ 2 players with mode: Computer move is random move, Human player is 
